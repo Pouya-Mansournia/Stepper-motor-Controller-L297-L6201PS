@@ -1,0 +1,12 @@
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found CrystallB
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Add Class Member: Failed to add class member : Component C5 10pf
+Add Class Member: Failed to add class member : Component C8 10pf
+Add Class Member: Failed to add class member : Component Y3 32.768Khz

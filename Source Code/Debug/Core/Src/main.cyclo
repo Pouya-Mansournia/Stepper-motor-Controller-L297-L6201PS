@@ -1,0 +1,10 @@
+dwt_stm32_delay.h:25:22:DWT_Delay_us	2
+main.c:56:2:__io_putchar	1
+main.c:75:6:read_sw_switch	7
+main.c:193:6:HAL_UART_RxCpltCallback	28
+main.c:320:6:send_set_step_dir_DLY_x_axis	3
+main.c:346:6:HAL_TIM_PWM_PulseFinishedCallback	5
+main.c:392:6:send_set_step_dir_PWM_X_axis	2
+main.c:450:5:main	3
+main.c:593:6:SystemClock_Config	3
+main.c:638:6:Error_Handler	1

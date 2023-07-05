@@ -1,0 +1,10 @@
+E:/Motor/STEP_MOTOR_L297_L6201PS/delay/dwt_stm32_delay.h:25:22:DWT_Delay_us	24	static
+../Core/Src/main.c:56:2:__io_putchar	16	static
+../Core/Src/main.c:75:6:read_sw_switch	8	static
+../Core/Src/main.c:193:6:HAL_UART_RxCpltCallback	48	static
+../Core/Src/main.c:320:6:send_set_step_dir_DLY_x_axis	32	static
+../Core/Src/main.c:346:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+../Core/Src/main.c:392:6:send_set_step_dir_PWM_X_axis	24	static
+../Core/Src/main.c:450:5:main	24	static
+../Core/Src/main.c:593:6:SystemClock_Config	72	static
+../Core/Src/main.c:638:6:Error_Handler	4	static

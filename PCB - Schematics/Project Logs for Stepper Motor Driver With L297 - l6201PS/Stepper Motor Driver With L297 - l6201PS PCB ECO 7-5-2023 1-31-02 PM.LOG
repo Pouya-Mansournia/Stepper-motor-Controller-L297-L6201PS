@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=HOME Pin=U2-43
+Removed Pin From Net: NetName=GND Pin=U6-21
+Removed Pin From Net: NetName=GND Pin=U8-21
+Change Component Designator: OldDesignator=Fuse NewDesignator=f1
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Cap0805"; UniqueID = "\TSTCPWDD\MINGMXCZ" ("\TSTCPWDD\MINGMXCZ")
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Cap0805"; UniqueID = "\TSTCPWDD\HVIBLMDN" ("\TSTCPWDD\HVIBLMDN")
+Change component parameters: Designator = "C3" ("C3"); Footprint = "Cap0805"; UniqueID = "\TSTCPWDD\HTVCISVG" ("\TSTCPWDD\HTVCISVG")
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Cap0805"; UniqueID = "\TSTCPWDD\YVMSFURO" ("\TSTCPWDD\YVMSFURO")
+Change component parameters: Designator = "C6" ("C6"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\ZNVUKBTH" ("\UZOEOTES\ZNVUKBTH")
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\GDLASHXC" ("\UZOEOTES\GDLASHXC")
+Change component parameters: Designator = "C9" ("C9"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\RJCBSZHG" ("\UZOEOTES\RJCBSZHG")
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPMOL_C"; UniqueID = "\UZOEOTES\RHMGBIIC" ("\UZOEOTES\RHMGBIIC")
+Change component parameters: Designator = "C11" ("C11"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\GJIHCFAX" ("\UZOEOTES\GJIHCFAX")
+Change component parameters: Designator = "C12" ("C12"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\NFLTUAHQ" ("\UZOEOTES\NFLTUAHQ")
+Change component parameters: Designator = "C13" ("C13"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\HNDYANIM" ("\UZOEOTES\HNDYANIM")
+Change component parameters: Designator = "C14" ("C14"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\FYTYLYMD" ("\UZOEOTES\FYTYLYMD")
+Change component parameters: Designator = "C15" ("C15"); Footprint = "Cap0805"; UniqueID = "\UZOEOTES\FYVZHITV" ("\UZOEOTES\FYVZHITV")
+Change component parameters: Designator = "C16" ("C16"); Footprint = "Cap_4mm"; UniqueID = "\OJHPHFGN\SFAWECQD" ("\OJHPHFGN\SFAWECQD")
+Change component parameters: Designator = "C17" ("C17"); Footprint = "Cap_4mm"; UniqueID = "\OJHPHFGN\ZFOYABCE" ("\OJHPHFGN\ZFOYABCE")
+Change component parameters: Designator = "C18" ("C18"); Footprint = "Cap0805"; UniqueID = "\OJHPHFGN\EVKKNCAL" ("\OJHPHFGN\EVKKNCAL")
+Change component parameters: Designator = "C19" ("C19"); Footprint = "Cap0805"; UniqueID = "\OJHPHFGN\DWQHQMIF" ("\OJHPHFGN\DWQHQMIF")
+Change component parameters: Designator = "C20" ("C20"); Footprint = "Cap_5mm"; UniqueID = "\OJHPHFGN\XITGSTXQ" ("\OJHPHFGN\XITGSTXQ")
+Change component parameters: Designator = "C21" ("C21"); Footprint = "Cap_5mm"; UniqueID = "\OJHPHFGN\IRFLUEUD" ("\OJHPHFGN\IRFLUEUD")
+Change component parameters: Designator = "C22" ("C22"); Footprint = "Cap0805"; UniqueID = "\OJHPHFGN\JPXSXBBD" ("\OJHPHFGN\JPXSXBBD")
+Change component parameters: Designator = "C23" ("C23"); Footprint = "Cap0805"; UniqueID = "\OJHPHFGN\GOGQVAYY" ("\OJHPHFGN\GOGQVAYY")
+Change component parameters: Designator = "C24" ("C24"); Footprint = "Cap0805"; UniqueID = "\OJHPHFGN\ZZDTHWAF" ("\OJHPHFGN\ZZDTHWAF")
+Change component parameters: Designator = "C25" ("C25"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\TEASUCAD" ("\QRKEIUJA\TEASUCAD")
+Change component parameters: Designator = "C26" ("C26"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\DJAYZCTG" ("\QRKEIUJA\DJAYZCTG")
+Change component parameters: Designator = "C27" ("C27"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\IOXRQAPG" ("\QRKEIUJA\IOXRQAPG")
+Change component parameters: Designator = "C28" ("C28"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\JTZQOGVU" ("\QRKEIUJA\JTZQOGVU")
+Change component parameters: Designator = "C29" ("C29"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\STEKEWHP" ("\QRKEIUJA\STEKEWHP")
+Change component parameters: Designator = "C30" ("C30"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\ZSYMMKCO" ("\QRKEIUJA\ZSYMMKCO")
+Change component parameters: Designator = "C31" ("C31"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\XUJZFSJD" ("\QRKEIUJA\XUJZFSJD")
+Change component parameters: Designator = "C32" ("C32"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\UFASHACM" ("\QRKEIUJA\UFASHACM")
+Change component parameters: Designator = "C33" ("C33"); Footprint = "Cap0805"; UniqueID = "\QRKEIUJA\ERKRXYWI" ("\QRKEIUJA\ERKRXYWI")
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "CrystallB"; UniqueID = "\TSTCPWDD\RACCVQCU" ("\TSTCPWDD\RACCVQCU")
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "CrystallB"; UniqueID = "\UZOEOTES\HLBTBFTP" ("\UZOEOTES\HLBTBFTP")
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found CrystallB
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Added Pin To Net: NetName=HOME Pin=U2-45
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Added Pin To Net: NetName=Clock_  Pin=U2-43
+Added Net: Name=Clock_ 
+Added Pin To Net: NetName=Clock_ Pin=U7-18
+Added Net: Name=Clock_
+Add Class Member: Failed to add class member : Component C5 10pf
+Add Class Member: Failed to add class member : Component C8 10pf
+Added Member To Class: ClassName=U_Stepper Motor Driver With L297 - l6201PS Member=Component R17 Resistor
+Added Member To Class: ClassName=U_Stepper Motor Driver With L297 - l6201PS Member=Component R18 Resistor
+Added Member To Class: ClassName=U_Stepper Motor Driver With L297 - l6201PS Member=Component R19 Resistor
+Add Class Member: Failed to add class member : Component Y3 32.768Khz
+Added Room: Name=U_Communication and peripherals
+Added Room: Name=U_MicroControllerSTM32f103
+Added Room: Name=U_Power Management
+Added Room: Name=U_Stepper Motor Driver With L297 - l6201PS
